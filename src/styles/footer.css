@@ -1,0 +1,20 @@
+footer {
+    position: absolute;
+    height: 64px;
+    width: 100%;
+    bottom: 0;
+    background-color: #161619;
+    border-radius: 0px 0px 10px 10px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+footer > img {
+    margin: 12px;
+    cursor: pointer;
+}
+
+footer.light-mode {
+    background: #D5D4D8;
+}

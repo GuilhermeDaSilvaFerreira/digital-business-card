@@ -1,0 +1,21 @@
+.container {
+    width: 23%;
+    height: 870px;
+    background-color: #23252C;
+    margin: 20px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.card {
+    width: 80%;
+    height: 90%;
+    border-radius: 10px;
+    background-color: #1A1B21;
+    position: relative;
+}
+
+.light-mode {
+    background: #F5F5F5;
+}
