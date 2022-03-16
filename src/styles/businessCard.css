@@ -1,11 +1,11 @@
 .container {
-    width: 23%;
+    width: 390px;
     height: 870px;
     background-color: #23252C;
-    margin: 20px;
+    margin: 20px auto;
     display: flex;
-    justify-content: center;
     align-items: center;
+    justify-content: center;
 }
 
 .card {
